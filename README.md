@@ -1,2 +1,2 @@
-# YFBETBorrrow
-YFBET Collateral Vault Proxy Contract Source Code
+# ETHSTKBorrrow
+ETHSTKBORRROW Collateral Vault Proxy Contract Source Code
